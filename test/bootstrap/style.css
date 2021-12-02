@@ -1,0 +1,19 @@
+.navbar-light .navbar-toggler-icon {
+    background-image: url("dog.jpg");
+}
+
+
+.btn-outline-success {
+    color: #f63c0d;
+    border-color: #fa2f0b;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #f63c0d;
+    border-color: #fa2f0b;
+}
+
+div {
+    border-style: double;
+}
